@@ -38,8 +38,8 @@ Below are the development tools I frequently use
   <a href="https://docs.platformio.org/en/latest/what-is-platformio.html" target="_blank" rel="noreferrer" style="margin:0 3px;">
     <img src="https://github.com/COSMICAL-CONTAINER/COSMICAL-CONTAINER/blob/output/platform.png?raw=true" alt="platformio" width="50" height="50" />
   </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer" style="margin:0 2px;">
-    <img src="https://github.com/COSMICAL-CONTAINER/COSMICAL-CONTAINER/blob/output/freertos.jpg?raw=true" alt="freertos" width="50" height="50" />
+  <a href="" target="_blank" rel="noreferrer" style="margin:0 2px;">
+    <img src="https://github.com/COSMICAL-CONTAINER/COSMICAL-CONTAINER/blob/output/freertos.png?raw=true" alt="freertos" width="50" height="50" />
   </a>
 </p>
 And the language I often use
