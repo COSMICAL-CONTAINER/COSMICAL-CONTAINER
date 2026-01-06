@@ -36,10 +36,10 @@ Below are the development tools I frequently use
     <img src="https://skillicons.dev/icons?i=github,git,qt,cmake,visualstudio,vscode,arduino" />
   </a>
   <a href="https://docs.platformio.org/en/latest/what-is-platformio.html" target="_blank" rel="noreferrer" style="margin:0 3px;">
-    <img src="https://github.com/COSMICAL-CONTAINER/COSMICAL-CONTAINER/blob/output/platform.png?raw=true" alt="platformio" width="50" height="50" />
+    <img src="https://github.com/COSMICAL-CONTAINER/COSMICAL-CONTAINER/blob/main/pic/platform.png?raw=true" alt="platformio" width="50" height="50" />
   </a>
   <a href="" target="_blank" rel="noreferrer" style="margin:0 2px;">
-    <img src="https://github.com/COSMICAL-CONTAINER/COSMICAL-CONTAINER/blob/output/freertos.png?raw=true" alt="freertos" width="50" height="50" />
+    <img src="https://github.com/COSMICAL-CONTAINER/COSMICAL-CONTAINER/blob/main/pic/freertos.png?raw=true" alt="freertos" width="50" height="50" />
   </a>
 </p>
 And the language I often use
@@ -64,16 +64,16 @@ Besides, I can also play some
       <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
     </a>
     <a href="https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-basic-6/visual-basic-6.0-documentation" target="_blank" rel="noreferrer" style="margin:0 5px;">
-      <img src="https://github.com/COSMICAL-CONTAINER/COSMICAL-CONTAINER/blob/output/vb6.0.png?raw=true" alt="vb6.0" width="40" height="40" />
+      <img src="https://github.com/COSMICAL-CONTAINER/COSMICAL-CONTAINER/blob/main/pic/vb6.0.png?raw=true" alt="vb6.0" width="40" height="40" />
     </a>
     <a href="#" target="_blank" rel="noreferrer" style="margin:0 -15px;">
-      <img src="https://github.com/COSMICAL-CONTAINER/COSMICAL-CONTAINER/blob/output/reg.png?raw=true" alt="reg" width="40" height="40" />
+      <img src="https://github.com/COSMICAL-CONTAINER/COSMICAL-CONTAINER/blob/main/pic/reg.png?raw=true" alt="reg" width="40" height="40" />
     </a>
     <a href="#" target="_blank" rel="noreferrer" style="margin:0 -5px;">
-      <img src="https://github.com/COSMICAL-CONTAINER/COSMICAL-CONTAINER/blob/output/vbs.png?raw=true" alt="vbs" width="40" height="40" />
+      <img src="https://github.com/COSMICAL-CONTAINER/COSMICAL-CONTAINER/blob/main/pic/vbs.png?raw=true" alt="vbs" width="40" height="40" />
     </a>
     <a href="#" target="_blank" rel="noreferrer" style="margin:0 -10px;">
-      <img src="https://github.com/COSMICAL-CONTAINER/COSMICAL-CONTAINER/blob/output/bat.png?raw=true" alt="bat" width="40" height="40" />
+      <img src="https://github.com/COSMICAL-CONTAINER/COSMICAL-CONTAINER/blob/main/pic/bat.png?raw=true" alt="bat" width="40" height="40" />
     </a>
   </div>
 </div>
