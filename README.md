@@ -2,6 +2,9 @@
 I'm COSMICAL-CONTAINER,a programme designer, and college school student.I'm interested in development. I work on random projects in my free time.
 
 我是COSMICAL-CONTAINER，一名程序员和大学生。我对开发很感兴趣。在空闲时间，我会参与各种随机项目。
+
+![gif](https://github.com/COSMICAL-CONTAINER/COSMICAL-CONTAINER/blob/main/pic/gif.gif?raw=true)
+
 <div align="center">
   <a href="https://blog.csdn.net/qq_28406527"><img src="https://img.shields.io/badge/CSDN-博客-red" /></a>&emsp;
   <a href="https://cosmical-container.github.io"><img src="https://img.shields.io/badge/个人-博客-8c36db" /></a>&emsp;
