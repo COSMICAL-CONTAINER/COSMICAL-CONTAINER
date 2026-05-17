@@ -1,7 +1,7 @@
 ## Hi there 👋
-I'm COSMICAL-CONTAINER,a programme designer, and college school student.I'm interested in development. I work on random projects in my free time.
+I'm COSMICAL-CONTAINER,a programme designer, and Postgraduate.I'm interested in development. I work on random projects in my free time.
 
-我是COSMICAL-CONTAINER，一名程序员和大学生。我对开发很感兴趣。在空闲时间，我会参与各种随机项目。
+我是COSMICAL-CONTAINER，一名程序员和研究生。我对开发很感兴趣。在空闲时间，我会参与各种随机项目。
 
 ![gif](https://github.com/COSMICAL-CONTAINER/COSMICAL-CONTAINER/blob/main/pic/gif.gif?raw=true)
 
