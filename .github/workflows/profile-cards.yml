@@ -1,0 +1,35 @@
+name: generate profile summary cards
+
+on:
+  # run automatically every 24 hours
+  schedule:
+    - cron: '30 0 * * *'
+
+  # allows to manually run the job at any time
+  workflow_dispatch:
+  # first run when this workflow file itself is pushed
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/profile-cards.yml'
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      # generates github profile summary cards and commits them to the main branch
+      - name: generate github-profile-summary-cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: 8
+          THEME: dracula

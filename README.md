@@ -14,12 +14,11 @@ I'm COSMICAL-CONTAINER,a programme designer, and Postgraduate.I'm interested in 
 
 ![贪吃蛇push](https://raw.githubusercontent.com/COSMICAL-CONTAINER/COSMICAL-CONTAINER/refs/heads/output/github-contribution-grid-snake.svg)
 
-[![COSMICAL-CONTAINER's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=COSMICAL-CONTAINER&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">
-  <img src="https://github-stats.ubrong.com/api?username=COSMICAL-CONTAINER&show_icons=true&theme=default" alt="GitHub账户信息统计" />
+  <img src="profile-summary-card-output/dracula/3-stats.svg" alt="GitHub账户信息统计" />
   <div style="display:flex;justify-content:center;align-items:center;gap:16px;margin-top:8px;flex-wrap:wrap;">
-    <img src="https://github-stats.ubrong.com/api/top-langs/?username=COSMICAL-CONTAINER&layout=compact&theme=default" alt="GitHub账户最常用语言" />
+    <img src="profile-summary-card-output/dracula/1-repos-per-language.svg" alt="GitHub仓库语言分布" />
+    <img src="profile-summary-card-output/dracula/2-most-commit-language.svg" alt="GitHub最常提交语言" />
     <img src="https://stats.justsong.cn/api/csdn?id=qq_28406527" alt="CSDN统计" />
   </div>
 </div>
@@ -43,6 +42,17 @@ Below are the development tools I frequently use
   </a>
   <a href="" target="_blank" rel="noreferrer" style="margin:0 2px;">
     <img src="https://github.com/COSMICAL-CONTAINER/COSMICAL-CONTAINER/blob/main/pic/freertos.png?raw=true" alt="freertos" width="50" height="50" />
+  </a>
+</p>
+Below are the AI agents I frequently use
+
+下面是我常使用的AI agent
+<p align="center">
+  <a href="https://z.ai" target="_blank" rel="noreferrer" style="margin:0 3px;">
+    <img src="https://github.com/COSMICAL-CONTAINER/COSMICAL-CONTAINER/blob/main/pic/zcode.svg?raw=true" alt="zcode" width="50" height="50" />
+  </a>
+  <a href="https://claude.ai" target="_blank" rel="noreferrer" style="margin:0 3px;">
+    <img src="https://github.com/COSMICAL-CONTAINER/COSMICAL-CONTAINER/blob/main/pic/claude.svg?raw=true" alt="claude" width="50" height="50" />
   </a>
 </p>
 And the language I often use
