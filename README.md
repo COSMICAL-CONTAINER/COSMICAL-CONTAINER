@@ -17,11 +17,13 @@ I'm [COSMICAL-CONTAINER](https://cosmical-container.github.io/),a programme desi
 ![贪吃蛇push](https://raw.githubusercontent.com/COSMICAL-CONTAINER/COSMICAL-CONTAINER/refs/heads/output/github-contribution-grid-snake.svg)
 
 <div align="center">
-  <img src="profile-summary-card-output/default/3-stats.svg" alt="GitHub账户信息统计" />
+  <div style="display:flex;justify-content:center;align-items:center;gap:16px;flex-wrap:wrap;">
+    <img src="profile-summary-card-output/default/3-stats.svg" alt="GitHub账户信息统计" />
+    <img src="https://stats.justsong.cn/api/csdn?id=qq_28406527" alt="CSDN统计" />
+  </div>
   <div style="display:flex;justify-content:center;align-items:center;gap:16px;margin-top:8px;flex-wrap:wrap;">
     <img src="profile-summary-card-output/default/1-repos-per-language.svg" alt="GitHub仓库语言分布" />
     <img src="profile-summary-card-output/default/2-most-commit-language.svg" alt="GitHub最常提交语言" />
-    <img src="https://stats.justsong.cn/api/csdn?id=qq_28406527" alt="CSDN统计" />
   </div>
 </div>
 Below are the platforms I commonly use
@@ -42,7 +44,7 @@ Below are the development tools I frequently use
   <a href="https://docs.platformio.org/en/latest/what-is-platformio.html" target="_blank" rel="noreferrer" style="margin:0 3px;">
     <img src="https://github.com/COSMICAL-CONTAINER/COSMICAL-CONTAINER/blob/main/pic/platform.png?raw=true" alt="platformio" width="50" height="50" />
   </a>
-  <a href="" target="_blank" rel="noreferrer" style="margin:0 2px;">
+  <a href="" target="_blank" rel="noreferrer" style="margin:0 3px;">
     <img src="https://github.com/COSMICAL-CONTAINER/COSMICAL-CONTAINER/blob/main/pic/freertos.png?raw=true" alt="freertos" width="50" height="50" />
   </a>
 </p>
@@ -75,19 +77,19 @@ Besides, I can also play some
     </a>
   </div>
   <div style="display:flex;justify-content:center;align-items:center;gap:16px;flex-wrap:wrap;margin-top:8px;">
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer" style="margin:0 -7px;">
+    <a href="https://opencv.org/" target="_blank" rel="noreferrer" style="margin:0 3px;">
       <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
     </a>
-    <a href="https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-basic-6/visual-basic-6.0-documentation" target="_blank" rel="noreferrer" style="margin:0 5px;">
+    <a href="https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-basic-6/visual-basic-6.0-documentation" target="_blank" rel="noreferrer" style="margin:0 3px;">
       <img src="https://github.com/COSMICAL-CONTAINER/COSMICAL-CONTAINER/blob/main/pic/vb6.0.png?raw=true" alt="vb6.0" width="40" height="40" />
     </a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin:0 -15px;">
+    <a href="#" target="_blank" rel="noreferrer" style="margin:0 3px;">
       <img src="https://github.com/COSMICAL-CONTAINER/COSMICAL-CONTAINER/blob/main/pic/reg.png?raw=true" alt="reg" width="40" height="40" />
     </a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin:0 -5px;">
+    <a href="#" target="_blank" rel="noreferrer" style="margin:0 3px;">
       <img src="https://github.com/COSMICAL-CONTAINER/COSMICAL-CONTAINER/blob/main/pic/vbs.png?raw=true" alt="vbs" width="40" height="40" />
     </a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin:0 -10px;">
+    <a href="#" target="_blank" rel="noreferrer" style="margin:0 3px;">
       <img src="https://github.com/COSMICAL-CONTAINER/COSMICAL-CONTAINER/blob/main/pic/bat.png?raw=true" alt="bat" width="40" height="40" />
     </a>
   </div>
