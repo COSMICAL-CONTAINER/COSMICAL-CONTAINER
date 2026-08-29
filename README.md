@@ -1,9 +1,11 @@
 ## Hi there 👋
-I'm COSMICAL-CONTAINER,a programme designer, and Postgraduate.I'm interested in development. I work on random projects in my free time.
+I'm [COSMICAL-CONTAINER](https://cosmical-container.github.io/),a programme designer, and Postgraduate.I'm interested in development. I work on random projects in my free time.
 
-我是COSMICAL-CONTAINER，一名程序员和研究生。我对开发很感兴趣。在空闲时间，我会参与各种随机项目。
+我是[COSMICAL-CONTAINER](https://cosmical-container.github.io/)，一名程序员和研究生。我对开发很感兴趣。在空闲时间，我会参与各种随机项目。
 
-![gif](https://github.com/COSMICAL-CONTAINER/COSMICAL-CONTAINER/blob/main/pic/gif.gif?raw=true)
+<p align="center">
+  <img src="https://github.com/COSMICAL-CONTAINER/COSMICAL-CONTAINER/blob/main/pic/gif.gif?raw=true" alt="gif" />
+</p>
 
 <div align="center">
   <a href="https://blog.csdn.net/qq_28406527"><img src="https://img.shields.io/badge/CSDN-博客-red" /></a>&emsp;
@@ -15,10 +17,10 @@ I'm COSMICAL-CONTAINER,a programme designer, and Postgraduate.I'm interested in 
 ![贪吃蛇push](https://raw.githubusercontent.com/COSMICAL-CONTAINER/COSMICAL-CONTAINER/refs/heads/output/github-contribution-grid-snake.svg)
 
 <div align="center">
-  <img src="profile-summary-card-output/dracula/3-stats.svg" alt="GitHub账户信息统计" />
+  <img src="profile-summary-card-output/default/3-stats.svg" alt="GitHub账户信息统计" />
   <div style="display:flex;justify-content:center;align-items:center;gap:16px;margin-top:8px;flex-wrap:wrap;">
-    <img src="profile-summary-card-output/dracula/1-repos-per-language.svg" alt="GitHub仓库语言分布" />
-    <img src="profile-summary-card-output/dracula/2-most-commit-language.svg" alt="GitHub最常提交语言" />
+    <img src="profile-summary-card-output/default/1-repos-per-language.svg" alt="GitHub仓库语言分布" />
+    <img src="profile-summary-card-output/default/2-most-commit-language.svg" alt="GitHub最常提交语言" />
     <img src="https://stats.justsong.cn/api/csdn?id=qq_28406527" alt="CSDN统计" />
   </div>
 </div>
