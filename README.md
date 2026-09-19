@@ -14,6 +14,28 @@ I'm [COSMICAL-CONTAINER](https://cosmical-container.github.io/),a programme desi
   <a href="https://wakatime.com/@018b0e13-55cf-4bc6-bc0b-a8fdde9b7f14"><img src="https://wakatime.com/badge/user/018b0e13-55cf-4bc6-bc0b-a8fdde9b7f14.svg" /></a>
 </div>
 
+## ⏱️ Development time
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C612%20hrs%2021%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C001%20hrs%2018%20mins-blue?style=flat)
+
+**I Mostly Code in Python** 
+
+```text
+Python                   8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+C                        8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+QML                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+```
+
+
+
+
+<!--END_SECTION:waka-->
+
 ![贪吃蛇push](https://raw.githubusercontent.com/COSMICAL-CONTAINER/COSMICAL-CONTAINER/refs/heads/output/github-contribution-grid-snake.svg)
 
 <div align="center">
