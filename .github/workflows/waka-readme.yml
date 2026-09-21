@@ -23,6 +23,7 @@ jobs:
 
           # Show aggregate time only. Do not publish languages or project details.
           SHOW_LANGUAGE: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_AI_CODE_TIME: "True"
           SHOW_AI_CODING: "False"

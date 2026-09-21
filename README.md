@@ -21,19 +21,6 @@ I'm [COSMICAL-CONTAINER](https://cosmical-container.github.io/),a programme desi
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C001%20hrs%2018%20mins-blue?style=flat)
 
-**I Mostly Code in Python** 
-
-```text
-Python                   8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-C                        8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-QML                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-```
-
-
-
-
 <!--END_SECTION:waka-->
 
 ![贪吃蛇push](https://raw.githubusercontent.com/COSMICAL-CONTAINER/COSMICAL-CONTAINER/refs/heads/output/github-contribution-grid-snake.svg)
@@ -42,10 +29,6 @@ JavaScript               2 repos             ██░░░░░░░░░�
   <div style="display:flex;justify-content:center;align-items:center;gap:16px;flex-wrap:wrap;">
     <img src="profile-summary-card-output/default/3-stats.svg" alt="GitHub账户信息统计" />
     <img src="https://stats.justsong.cn/api/csdn?id=qq_28406527" alt="CSDN统计" />
-  </div>
-  <div style="display:flex;justify-content:center;align-items:center;gap:16px;margin-top:8px;flex-wrap:wrap;">
-    <img src="profile-summary-card-output/default/1-repos-per-language.svg" alt="GitHub仓库语言分布" />
-    <img src="profile-summary-card-output/default/2-most-commit-language.svg" alt="GitHub最常提交语言" />
   </div>
 </div>
 Below are the platforms I commonly use
