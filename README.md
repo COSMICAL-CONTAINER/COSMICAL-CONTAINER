@@ -17,9 +17,9 @@ I'm [COSMICAL-CONTAINER](https://cosmical-container.github.io/),a programme desi
 ## ⏱️ Development time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C754%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C780%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C286%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C320%20hrs%2043%20mins-blue?style=flat)
 
 
 <!--END_SECTION:waka-->
